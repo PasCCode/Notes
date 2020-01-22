@@ -16,3 +16,8 @@
 11. `publisher.name`:           *Text*
 
 ##Recommended Properties
+
+
+1.  `dateModified`:             *DateTime*
+2.  `description`:              *Text*
+3.  `mainEntityOfPage`:        *URL*

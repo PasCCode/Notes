@@ -13,4 +13,6 @@
 
 - alle mit HREFLANG verlinkten Unterseiten sollten tatsächlich existieren, sonst kann der Google-Algorythmus abstrafen
 
-- auf Seiten mit HREFLANG sollte nur per URL nicht über *Canonical Tag* verwiesen werden 
+- auf Seiten mit HREFLANG sollte nur per URL nicht über *Canonical Tag* verwiesen werden
+
+- die HREFLANG-Auszeichnung und die Länderangabe in der Google Search Console müssen übereinstimmen

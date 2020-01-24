@@ -5,7 +5,7 @@
 
 1.  `author`:                   *Person* or *Organization*
 2.  `author.name`:              *Text*
-3.  `datePublished`:             *DateTime*
+3. `datePublished`:             *DateTime*
 4.  `headline`:                 *Text* (should not exceed 110 characters)
 5.  `image`:                    *ImageObject* or *URL* (at least 1.200 pixels wide)
 6.  `publisher`:                *Organization*

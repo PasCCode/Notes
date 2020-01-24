@@ -20,6 +20,10 @@
     &rarr; die Strukturierten Daten müssen den Hauptelementen der Seite entsprechen
         - für eine Seite mit Informationen zu einem spezifischen Produkt macht dies Sinn, für eine Übersicht zu verschiedenen Kategorien ist dies nicht hilfreich
 
+- *Verfolgt der Googlebot die Links aus den Structured Data?*
+
+    &rarr; es ist eher unwahrscheinlich, dass Google die verlinkten Seiten crawlt
+
 
 
 

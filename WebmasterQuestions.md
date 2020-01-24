@@ -24,3 +24,5 @@
 - Umlaute in Domainnamen sind KEIN Problem
 - die Fehlermeldung 'Crawling Anomalie' rührt häufig von nicht gecrawltem Content und ist meistens kein Problem (Google denkt, diese Seiten seien nicht so wichtig, dass sie regelmäßig gecrawlt werden müssen)
     &rarr; neue Sitemap mit kürzlichen Änderungen veröffentlichen erstellen
+
+- unterschiedliche Bereiche der Webseite können zu unterschiedlichen Zeitpunkten gecrawlt werden

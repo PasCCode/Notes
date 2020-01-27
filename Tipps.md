@@ -2,9 +2,9 @@
 
 ## Ranking
 
-- *Strukturierte Daten* beeinflussen nicht das Ranking
-- **überflüssige Keywords** (Überladen einer Website mit Keywords oder Zahlen) kann zu einem schlechteren Ranking führen
-- bei mehrsprachigen Webseiten kann der gleiche Dateiname für Link zu Medien genutzt werden
+- *Structured Data* do not influence ranking
+- **superfluous keywords** (overloading the website with keywords oder numbers) can lead to a worse ranking
+- on multilingual sites you can use the same file/filename for media on the different language sites
 
 ## Sitemap
 
@@ -16,7 +16,7 @@
 
 ## Indexing
 
-- Inhalte, die erst nach Aufklappen sichtbar sind, werden nicht vom Index
+- Content which is visible only after unfolding hidden stuff, will not be indexed
 
 ## Crawling
 

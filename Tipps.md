@@ -5,6 +5,7 @@
 
 
 - *Strukturierte Daten* beeinflussen nicht das Ranking
+- **überflüssige Keywords** (Überladen einer Website mit Keywords oder Zahlen) kann zu einem schlechteren Ranking führen
 
 
 
@@ -28,3 +29,5 @@
 # Crawling
 
 - Seiten mit "unendlichen" Ergebnissen (unendliche Kalender oder Suchergebnisse) sollten mit der `robots.txt` oder einem `nofollow` Tag vom Crawling ausgeschlossen werden
+
+- verschiedene Datei-Typen können unterschiedliche Cache-Richtlinien haben

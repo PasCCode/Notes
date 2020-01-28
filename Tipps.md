@@ -17,6 +17,7 @@
 ## Indexing
 
 - Content which is visible only after unfolding hidden stuff, will not be indexed
+- even for desktop-only websites GoogleBot will index them as long as user can see all content on their mobile device (zoom in)
 
 ## Crawling
 

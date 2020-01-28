@@ -18,6 +18,9 @@
 
 - Content which is visible only after unfolding hidden stuff, will not be indexed
 - even for desktop-only websites GoogleBot will index them as long as user can see all content on their mobile device (zoom in)
+    &rarr; Google might rank the website lower for users on mobile devices due to it not being mobile friendly
+- it is normal for the Search Console to show a higher number of desktop pages compared to mobile-only pages
+    - it is only important that the percentage of errors flagged is about the same
 
 ## Crawling
 

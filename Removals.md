@@ -16,3 +16,7 @@
 ### Outdated Content
 
 - anyone can use this tool to update search results showing information that is no longer present on a page
+
+### SafeSearch Filtering
+
+- the **SafeSearch Filtering** section in Search Console shows a history of pages the the site that were reported by Google users as adult content

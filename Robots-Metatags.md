@@ -33,3 +33,11 @@ max-image-preview:[number]
 
 - it is feasible to limit which part of a page is eligible to be shown as a snippet via the `data-nosnippet` HTML attribute on **span**, **div** and **section** elements
 &rarr; with this snipped one can prevent that part of an HTML page from being shown within the textual snippet on the page
+
+***
+
+- rich results in Google Search are not covered by limits declared in the meta robots settings
+
+- one should reflect upon limiting previews as this may prevent content from appearing
+
+  - *Featured Snippets* require a certain minimum number of characters to be displayed

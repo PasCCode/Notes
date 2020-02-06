@@ -29,3 +29,15 @@
 - verschiedene Datei-Typen können unterschiedliche Cache-Richtlinien haben
 
 - Google crawlt Webseiten mindestens einmal pro sechs Monate
+
+## Links
+
+### Links mit negativen Auswirkungen
+
+- die Teilnahme an Linktauschprogrammen wirkt sich negativ aufs Ranking aus
+
+- Gastbeiträge auf Blogs können von Google als Spam betrachtet werden
+
+- Artikel- oder Linkverzeichnisse als Methode des Linkaufbaus sieht Google als unnatürlich an
+
+- ausgehende Links überprüfen

@@ -18,3 +18,8 @@
 - alternate language versions of an URL should be advertised using *hreflang annotations*
 
 - sitemap files must be UTF-8 encoded and URLs escaped appropriately
+
+- break up large sitemaps into smaller sitemaps: maximum size 50,000 URLs/50MB uncompressed
+  - use a *sitemap index file* to list all individual sitemaps and submit this file instead of individual sitemaps
+
+- list only *canonical URLs* in sitemaps

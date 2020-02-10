@@ -1,6 +1,6 @@
 # Fehlermeldungen von Servern
 
-### Fehlermeldung 404
+## Fehlermeldung 404
 
 ### Ursachen
 

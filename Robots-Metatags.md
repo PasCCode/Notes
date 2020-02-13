@@ -14,6 +14,13 @@
 </html>
 ```
 
+- it is possible to combine different instructions for different bots
+
+```
+<meta name="googlebot" content="noindex">
+<meta name="googlebot-news" content="nosnippet">
+```
+
 ```
 nosnippet
 ```

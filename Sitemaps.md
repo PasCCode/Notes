@@ -23,3 +23,8 @@
   - use a *sitemap index file* to list all individual sitemaps and submit this file instead of individual sitemaps
 
 - list only *canonical URLs* in sitemaps
+
+- Google doesn't check a sitemap every time it crawls a website
+  - webmaster need to notify Google if the sitemap has changed
+    1. Option: submit the new sitemap via Seach Console
+    2. Insert the following line anywhere in the `robots.txt`, specifying the path to the sitemap `Sitemap: http://example.com/sitemap_location.xml`

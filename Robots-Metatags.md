@@ -1,5 +1,19 @@
 # Robots Meta Tags
 
+- with robots meta tags you can attain a granular, page-specific approach to controlling how an individual page should be indexed and thus served to Google Search uers
+
+- the robots meta tag needs to be placed in the **HEAD section** of a given page
+
+```
+<!DOCTYPE html>
+<html><head>
+<meta name="robots" content="noindex" />
+(…)
+</head>
+<body>(…)</body>
+</html>
+```
+
 ```
 nosnippet
 ```

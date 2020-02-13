@@ -10,7 +10,7 @@
 
 - Welche Möglichkeiten gibt es für den Threadersteller hier die Sitemap so auf dem Server zu platzieren, dass sie von Google korrekt gefunden wird *Routingtechnisch nicht möglich XML und News Sitemap im Stammverzeichnis zu platzieren* (https://support.google.com/webmasters/thread/27641482?hl=de&msgid=27641482)?
 
-## Offene Fragen
-
 - Was ist der technische Hintergrund für die Empfehlung von *asterix*, Weiterleitung einzig über die **.htaccess** vorzunehmen?
 (https://support.google.com/webmasters/thread/28397711?hl=de&msgid=28542222)
+
+## Offene Fragen
